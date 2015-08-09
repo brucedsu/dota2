@@ -1,0 +1,47 @@
+"itembuilds"
+{
+	"author"		"DeiSu"
+	"hero"			"npc_dota_hero_leshrac"
+	"Title"			"Recommended Items for Leshrac"
+	
+	"Items"
+	{		
+		"#DOTA_Item_Build_Starting_Items"
+		{
+			"item"		"item_tango"
+			"item"		"item_flask"
+			"item"		"item_null_talisman"
+			"item"		"item_branches"
+			"item"		"item_branches"
+		}
+		
+		"#DOTA_Item_Build_Early_Game"
+		{
+			"item"		"item_bottle"
+			"item"		"item_magic_wand"
+			"item"		"item_arcane_boots"
+			"item"		"item_soul_ring"
+			"item"		"item_tpscroll"
+		}
+		
+		"#DOTA_Item_Build_Core_Items"
+		{
+			"item"		"item_travel_boots"
+			"item"		"item_bloodstone"
+		}
+		
+		"#DOTA_Item_Build_Luxury"
+		{
+			"item"		"item_cyclone"
+			"item"		"item_glimmer_cape"
+			"item"		"item_lotus_orb"
+			"item"		"item_ghost"
+			"item"		"item_black_king_bar"
+			"item"		"item_octarine_core"
+			"item"		"item_shivas_guard"
+			"item"		"item_sheepstick"
+			"item"		"item_ultimate_scepter"
+			"item"		"item_blink"
+		}
+	}
+}
